@@ -1,0 +1,157 @@
+.questions1 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 18px;
+
+}
+
+.questions2 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 18px;
+}
+
+.questions3 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 18px;
+}
+
+.questions4 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 18px;
+}
+
+.questions5 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 18px;
+}
+
+.questions6 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 18px;
+}
+
+.questions7 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 18px;
+}
+
+.questions8 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 18px;
+}
+
+.questions9 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 18px;
+}
+
+.questions10 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 18px;
+}
+
+
+body {
+    background-image: url(./images/galaxy-background-hd-2560x1440-443821.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.scores {
+    color: blueviolet;
+    font-size: 32px;
+}
+
+.submit1 {
+    background-color: #696969;
+    color: white;
+    margin: 10px;
+}
+
+.submit2 {
+    background-color: #696969;
+    color: white;
+    margin: 10px;
+}
+
+.submit3 {
+    background-color: #696969;
+    color: white;
+    margin: 10px;
+}
+
+.submit4 {
+    background-color: #696969;
+    color: white;
+    margin: 10px;
+}
+
+.submit5 {
+    background-color: #696969;
+    color: white;
+    margin: 10px;
+}
+
+.submit6 {
+    background-color: #696969;
+    color: white;
+    margin: 10px;
+}
+
+.submit7 {
+    background-color: #696969;
+    color: white;
+    margin: 10px;
+}
+
+.submit8 {
+    background-color: #696969;
+    color: white;
+    margin: 10px;
+}
+
+.submit9 {
+    background-color: #696969;
+    color: white;
+    margin: 10px;
+}
+
+.submit10 {
+    background-color: #696969;
+    color: white;
+    margin: 10px;
+}
